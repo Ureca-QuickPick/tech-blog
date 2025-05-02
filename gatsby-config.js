@@ -10,7 +10,7 @@
 module.exports = {
   pathPrefix: "/tech-blog",
   siteMetadata: {
-    title: `Tech Blog`,
+    title: `QuickPick Tech Blog`,
     author: {
       name: `Kyle Mathews`,
       summary: `who lives and works in San Francisco building useful things.`,
