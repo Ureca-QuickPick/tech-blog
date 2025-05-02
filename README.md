@@ -48,5 +48,5 @@
 
 8. GitHub Pages 배포가 자동으로 실행됩니다 (`deploy.yml` 참고).
 
-## 블로그링크
+## 블로그 링크
 https://ureca-quickpick.github.io/tech-blog/
